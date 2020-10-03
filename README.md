@@ -1,1 +1,1 @@
-## Book Store Theme
+## Book Store Theme Project
